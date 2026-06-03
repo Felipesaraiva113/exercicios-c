@@ -1,4 +1,4 @@
-outuput/
+.outuput/
 *.o
 *.obj
 *.exe
